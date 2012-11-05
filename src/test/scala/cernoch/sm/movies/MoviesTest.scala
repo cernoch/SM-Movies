@@ -10,7 +10,7 @@ class MoviesTest extends Specification {
   "Movie dataset" should {
 
     "read all records" in {
-      Movies.dump.size must_== 241 * 128 * 7 * 5
+      Movies.dump.size must_== 23 * 3709
     }
   }
 }
