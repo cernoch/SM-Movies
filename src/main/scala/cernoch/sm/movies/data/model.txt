@@ -1,7 +1,0 @@
-actors(actor, activeYears, fName,lName, gender, born,died, comment, nationality)
-casts(filmid, filmName, actor, castType, comment )
-main(filmid,  filmName, produced, director, producer, comment, comment, genre, comment)
-people(name,  roles, personid, activeYears, born,died)
-remakes(filmid, filmName, produced, degree, filmid, filmName, produced)
-studios(name, name, city, country, born,died)
-synonyms(filmid, filmName, country, comment, filName)
